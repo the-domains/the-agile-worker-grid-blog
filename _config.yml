@@ -1,0 +1,28 @@
+name: The Agile Worker Grid Blog
+favicon: null
+layout_spectrum: 0.4228411978110671
+typography_spectrum: 0.7369938800111413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.03115352732129395
+  lightness: 0.2849779187235981
+  saturation: 0.32295680651441216
+  rhythmicContrast: 0.386291733244434
+purpose: []

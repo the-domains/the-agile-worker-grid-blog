@@ -6,24 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: My first agile worker blog posting with my Scrum Master resolutions for 2016
-datePublished: '2015-12-31T19:52:03.490Z'
-dateModified: '2015-12-31T19:51:50.599Z'
+datePublished: '2016-01-04T21:31:04.578Z'
+dateModified: '2016-01-04T21:30:50.738Z'
 title: My Scrum Master Resolutions for 2016
 author: []
+sourcePath: _posts/2015-12-31-my-scrum-master-resolutions-for-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-31-my-scrum-master-resolutions-for-2016.md
-published: true
 url: my-scrum-master-resolutions-for-2016/index.html
 _type: Article
 
 ---
 # My Scrum Master Resolutions for 2016
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f7dbafd-ff84-4f04-8383-97918ffc9a67.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/344499c70a8316d417ff68235cae4d79ed030e37.jpg)
 
 So here we are at the end of 2015 and it's been another eventful year in my life to say the least!   One big bit of news was that I finally got my Grid beta site which I'm using to make this first ever post to a new blog I'm starting "The Agile Worker Grid Blog".  
 

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: My first agile worker blog posting with my Scrum Master resolutions for 2016
-datePublished: '2016-01-04T21:34:35.739Z'
-dateModified: '2016-01-04T21:34:20.822Z'
+datePublished: '2016-01-04T21:55:25.256Z'
+dateModified: '2016-01-04T21:55:17.753Z'
 title: My Scrum Master Resolutions for 2016
 author: []
 sourcePath: _posts/2015-12-31-my-scrum-master-resolutions-for-2016.md
@@ -29,9 +29,9 @@ So here we are at the end of 2015 and it's been another eventful year in my life
 
 I just had to get a plug for the grid in there and capture what I feel my blog here will be all about and that's the life of an Agile Worker.   What is an "Agile Worker" might you ask?   Well right now I'm a Scrum Master for a company here in the Denver area but I didn't want this to be just a Scrum Master blog.  I feel my day to day work is really in the Agile methodology and mindset and can apply to any area of work not just software development.   Yes my day job is software development but I feel having an Agile mindset and all the techniques used to do Agile software development can be applied to just about anywhere in the working world.  So I plan on posting all sorts of stuff here not just about my life as a Scrum Master.
 
-However in this first post I will be focusing on my life as a Scrum Master with my 10 Scrum Master Resolutions for 2016!
+However in this first post I will be focusing on my life as a Scrum Master with my 10 Scrum Master Resolutions for 2016! 
 
-First off I want to say this post was inspired by two other posts I recently read and I'll point out which of my 10 resolutions come straight from their posts!   First the great Mike Cohn and his [21 New Year's Resolutions for Scrum Masters][0].   I love reading Mike's blog and the advice he gives.  I really feel he is a 'neutral' Agile Coach/Trainer in that he trains for an Agile mindset vs.  Scrum or any other Agile Methodology.   So thank you Mike for the resolution ideas and just being you!   
+First off I want to say this post was inspired by two other posts I recently read and I'll point out which of my 10 resolutions come straight from their posts! First the great Mike Cohn and his [21 New Year's Resolutions for Scrum Masters][0]. I love reading Mike's blog and the advice he gives. I really feel he is a 'neutral' Agile Coach/Trainer in that he trains for an Agile mindset vs. Scrum or any other Agile Methodology. So thank you Mike for the resolution ideas and just being you!
 
 Second inspiration comes from Len Lagestee and [his post][1] on the Illustrated Agile site.   He has 3 simple resolutions here but again these helped inspire me to do my own list of resolutions.
 

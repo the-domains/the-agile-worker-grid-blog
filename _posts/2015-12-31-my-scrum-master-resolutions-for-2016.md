@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: My first agile worker blog posting with my Scrum Master resolutions for 2016
-datePublished: '2016-01-04T21:31:04.578Z'
-dateModified: '2016-01-04T21:30:50.738Z'
+datePublished: '2016-01-04T21:34:35.739Z'
+dateModified: '2016-01-04T21:34:20.822Z'
 title: My Scrum Master Resolutions for 2016
 author: []
 sourcePath: _posts/2015-12-31-my-scrum-master-resolutions-for-2016.md
@@ -78,6 +78,8 @@ Got to keep learning at all times, continuous improvement is a foundation of Agi
 I've been telling myself to start a blog and give back for YEARS.   Well now I'm starting down that path so putting a goal in place to keep this ball rolling.   I hope you get some value out of reading the blog.   Let the journey begin!
 
 If you made it this far a big THANK YOU goes out to you.   I'm going to be figuring this Grid thing out and I'm sure there are going to be bumps in the road!   If interested check out the [core Grid site][3] and see what it's all about but be warned it's still in beta at this time and they have close up the beta to new users.
+
+UPDATE 1/6/16 - So seeing this on the web after publishing I'm a little disappointed in the formatting.   Asking the Grid folks for help to understand why some of the extra spacing is being thrown in here as it just doesn't look very clean.   Also not sure how to change the font size as it looks really small on a mobile screen and even on my PC/Mac.   Growing pains I suppose!
 
 [0]: https://www.mountaingoatsoftware.com/blog/21-new-years-resolutions-for-scrum-masters
 [1]: http://illustratedagile.com/2015/12/28/5th-annual-scrum-master-resolutions-2016-edition/
